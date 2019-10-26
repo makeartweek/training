@@ -1,0 +1,10 @@
+train (t-46adwb4ftym9f5va1tmrir9k4) {
+  utterance ("[g:InfoSearchState] (장범준)[v:Performer] (콘서트)[v:Type:콘서트] 정보 좀 (찾아줘)[v:SearchKeyword]")
+  plan (Y2BlkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQyS6JIBqUVp+UW5qUUMstj1eadWlucXpTCIoEuHVBakMrAwMDIwMTADaQYgCwJhACQGlQMA)
+  last-modified (1572003336477)
+}
+train (t-4kras2lctgz41h1roz1w41x7m) {
+  utterance ("[g:NearSearchState] (내 주변)[v:Nearby:근처]에서 하는 (콘서트)[v:Type:콘서트] (알려주라)[v:SearchKeyword]")
+  plan (Y2BjkE8sKilPTc3Wg9F+qYlFwUCcnBFckliSyqCArgAi6VTpk5+cWJKZn8cghs2IpEoGWew6vVMry/OLUhhE0KVDKgtSGQTKMsv00lPz9dxT8wPyM/NKGFgZGBmYGJgZWIAsBiAbBhGABYghKhgA)
+  last-modified (1571996439789)
+}

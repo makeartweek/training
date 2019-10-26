@@ -1,0 +1,5 @@
+train (t-9ftwwr9pztbv1gx7iduj583pw) {
+  utterance ("[g:InfoSearchState] (동구)[v:District:동구]에서 하는 거 (찾아줘)[v:SearchKeyword]")
+  plan (Y2BhkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JIumcUlRZnJJQyy2LV5p1aW5xelMDAzMDIwAUkGIA2CEADig0UB)
+  last-modified (1572073373995)
+}

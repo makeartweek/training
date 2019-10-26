@@ -1,0 +1,10 @@
+train (t-13z5y6a9a631nh7owu3a9051n) {
+  utterance ("[g:InfoSearchState] (남한산성)[v:District:수정구] 근처 공연 (알려줘)[v:SearchKeyword]")
+  plan (Y2BhkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JIumcUlRZnJJQyy2LV5p1aW5xelMDAzMDIwAUkGIA2CEADig0UB)
+  last-modified (1572073372004)
+}
+train (t-1f0y15in0z4rppo24x5klp9tw) {
+  utterance ("[g:InfoSearchState] (코엑스)[v:Location]에서 뭐하는지 (알려줘)[v:SearchKeyword]")
+  plan (Y2BhkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JI++cmJJZn5eQyy2LV5p1aW5xelMDAzMDIwAUkGIA2CEADig0UB)
+  last-modified (1572071554912)
+}

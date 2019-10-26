@@ -1,0 +1,5 @@
+train (t-asofmsneq0aps6r9hnsulj5t1) {
+  utterance ("[g:InfoSearchState] (장범준)[v:Title] 티켓 가격 (얼마야)[v:SearchKeyword]")
+  plan (Y2BhkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQyy2CW9UyvL84tSGETRpUMyS3JSGZgZGBmYgCQDkAZBCADxwaIA)
+  last-modified (1572070949022)
+}

@@ -1,0 +1,20 @@
+train (t-n4nkol4cj68tk7ovjii35hvix) {
+  utterance ("[g:NearSearchState] (인근)[v:Nearby:근처] (연극)[v:Type:연극] (알려줘)[v:SearchKeyword]  ")
+  plan (Y2BjkE8sKilPTc3Wg9F+qYlFwUCcnBFckliSyqCArgAi6VTpk5+cWJKZn8cghs2IpEoGWew6vVMry/OLUhhE0KVDKgtSGQTKMsv00lPz9dxT8wPyM/NKGFgZGBmYGJgZWIAsBiAbBhGABYghKhgA)
+  last-modified (1571914578479)
+}
+train (t-n7pzww1bcsooso8gawrz3e2ao) {
+  utterance ("[g:InfoSearchState] (6월)[v:time.DateTimeExpression]에 하는 (콘서트)[v:Type:콘서트] (알려줘)[v:SearchKeyword]")
+  plan (Y2BlkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQyy2CW9UyvL84tSGETQpUMqC4AmlmWW6ZVk5qbquQAtCAEyXCsKilKLizPz8xhYGBgZmBiYgTQDkAWBMAASg8oBAA==)
+  last-modified (1571970846685)
+}
+train (t-nl3pg4up4uc5o5otw8og2kdgw) {
+  utterance ("[g:NearSearchState] (가까운 위치)[v:Nearby:근처]에서 하는 (전시)[v:Type:전시] (확인 좀)[v:SearchKeyword]")
+  plan (Y2BjkE8sKilPTc3Wg9F+qYlFwUCcnBFckliSyqCArgAi6VTpk5+cWJKZn8cghs2IpEoGWew6vVMry/OLUhhE0KVDKgtSGQTKMsv00lPz9dxT8wPyM/NKGFgZGBmYGJgZWIAsBiAbBhGABYghKhgA)
+  last-modified (1571996420156)
+}
+train (t-nzv00m1w43s7hlbt4ck679mge) {
+  utterance ("[g:NearSearchState] (이곳에서)[v:Nearby:근처] 하는 (전시)[v:Type:전시] (알려줘)[v:SearchKeyword]")
+  plan (Y2BjkE8sKilPTc3Wg9F+qYlFwUCcnBFckliSyqCArgAi6VTpk5+cWJKZn8cghs2IpEoGWew6vVMry/OLUhhE0KVDKgtSGQTKMsv00lPz9dxT8wPyM/NKGFgZGBmYGJgZWIAsBiAbBhGABYghKhgA)
+  last-modified (1571913471095)
+}

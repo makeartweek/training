@@ -1,0 +1,20 @@
+train (t-88kkfuj02d26wl8orjfb8khtu) {
+  utterance ("[g:InfoSearchState] (하림)[v:Title] 공연 (보여줘봐)[v:SearchKeyword]")
+  plan (Y2BhkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQyy2CW9UyvL84tSGETRpUMyS3JSGZgZGBmYgCQDkAZBCADxwaIA)
+  last-modified (1572066115510)
+}
+train (t-8fqvvbwgt5f7n7znrlasf308h) {
+  utterance ("[g:InfoSearchState] (퀸)[v:Title] (콘서트)[v:Type:콘서트] (어디서해)[v:SearchKeyword]?")
+  plan (Y2BlkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQyy2CW9UyvL84tSGETRpUMyS3JSGUQwhCsLUhlYGBgZmBiYgTQDkAWBMAASg8oBAA==)
+  last-modified (1572054953907)
+}
+train (t-8pf6kww0yxfrvvfyj25rbxkbi) {
+  utterance ("[g:InfoSearchState] (연수구)[v:District:연수구]에 볼만한 거 (있어)[v:SearchKeyword]?")
+  plan (Y2BhkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JIumcUlRZnJJQyy2LV5p1aW5xelMDAzMDIwAUkGIA2CEADig0UB)
+  last-modified (1572066120139)
+}
+train (t-8z2tzl5xmpcxlegn10vnir56k) {
+  utterance ("[g:artweek.artweek.InfoSearchState] (송파구)[v:artweek.artweek.District:송파구]에서 (다음달)[v:viv.time.DateTimeExpression]에 볼 수 있는 공연 (보여줘)[v:artweek.artweek.SearchKeyword]")
+  plan (Y2BlkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JIumcUlRZnJJQyy2LV5p1aW5xelMEiXZZbplWTmpuq5AC0JATJcKwqKUouLM/PzGFgYGBmYGJiBNAOQBYEwABKDygEA)
+  last-modified (1572070626897)
+}

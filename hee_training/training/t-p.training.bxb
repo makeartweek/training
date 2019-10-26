@@ -1,0 +1,10 @@
+train (t-p0z3czpf5ve6n1pzf9ef2vi5p) {
+  utterance ("[g:InfoSearchState] (퀸)[v:Performer] (나오는)[v:PerformerPostposition] 공연 (보여줘)[v:SearchKeyword]")
+  plan (Y2BlkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQyS6JIBqUVp+UW5qUUMqjilAvKLSwryizNLMvPzGGSxG++dWlmeX5TCwMLAyMDEwAykGYAsCIQBkBhUDgA=)
+  last-modified (1572055062263)
+}
+train (t-p8f5nwcz5ih23ru7qthqgkfad) {
+  utterance ("[g:InfoSearchState] (연말)[v:time.DateTimeExpression] 공연 (뭐있을까)[v:SearchKeyword]?")
+  plan (Y2BhkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQyy2CW9UyvL84tSGKTLMsv0SjJzU/VcgEaFABmuFQVFqcXFmfl5DMwMjAxMQJIBSIMgBID4YFEA)
+  last-modified (1572054697210)
+}

@@ -1,0 +1,5 @@
+train (t-2jotlt0jytaglh7bljqswqe3q) {
+  utterance ("[g:artweek.artweek.InfoSearchState] (대학로)[v:District:종로구]에서 볼만한 (연극)[v:artweek.artweek.Type:연극] 좀 (알려주겠니)[v:artweek.artweek.SearchKeyword]")
+  plan (Y2BlkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JIumcUlRZnJJQyy2LV5p1aW5xelMIigS4dUFqQysDAwMjAxMANpBiALAmEAJAaVAwA=)
+  last-modified (1571986536908)
+}

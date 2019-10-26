@@ -1,0 +1,5 @@
+train (t-klub94uhdcceto9st0dowgr6n) {
+  utterance ("[g:InfoSearchState] (광진구)[v:District:광진구] 주변 (연극제)[v:Type:연극] (가리켜줘)[v:SearchKeyword]")
+  plan (Y2BlkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JIumcUlRZnJJQyy2LV5p1aW5xelMIigS4dUFqQysDAwMjAxMANpBiALAmEAJAaVAwA=)
+  last-modified (1572071547814)
+}

@@ -1,0 +1,10 @@
+train (t-0d2jcascuxu4ih5g4b7qawmhx) {
+  utterance ("[g:InfoSearchState] (연말)[v:time.DateTimeExpression]에 있는 (전시)[v:Type:전시] (알려줘)[v:SearchKeyword]")
+  plan (Y2BlkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQyy2CW9UyvL84tSGETQpUMqC4AmlmWW6ZVk5qbquQAtCAEyXCsKilKLizPz8xhYGBgZmBiYgTQDkAWBMAASg8oBAA==)
+  last-modified (1572072282139)
+}
+train (t-0xq80jplqqfzi8yxf7fgqrfn2) {
+  utterance ("[g:InfoSearchState] (연말)[v:time.DateTimeExpression] (전시)[v:Type:전시] (검색해줘)[v:SearchKeyword]")
+  plan (Y2BlkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQyy2CW9UyvL84tSGETQpUMqC4AmlmWW6ZVk5qbquQAtCAEyXCsKilKLizPz8xhYGBgZmBiYgTQDkAWBMAASg8oBAA==)
+  last-modified (1572072134272)
+}

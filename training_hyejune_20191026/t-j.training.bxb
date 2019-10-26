@@ -1,0 +1,10 @@
+train (t-jkjuabwrr2llepl9tbup2qcn5) {
+  utterance ("[g:InfoSearchState] (동두천)[v:District:동두천시]에서 하는 (전시)[v:Type:전시] (찾아줘)[v:SearchKeyword]")
+  plan (Y2BlkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JIumcUlRZnJJQyy2LV5p1aW5xelMIigS4dUFqQysDAwMjAxMANpBiALAmEAJAaVAwA=)
+  last-modified (1572070820673)
+}
+train (t-jnx65pi304uelvt2r0rzncsot) {
+  utterance ("[g:InfoSearchState] (12월)[v:viv.time.DateTimeExpression]에 하는 (연말공연)[v:Type:콘서트] 좀 (찾아줘)[v:SearchKeyword]봐봐")
+  plan (Y2BlkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQyy2CW9UyvL84tSGETQpUMqC4AmlmWW6ZVk5qbquQAtCAEyXCsKilKLizPz8xhYGBgZmBiYgTQDkAWBMAASg8oBAA==)
+  last-modified (1571995867320)
+}

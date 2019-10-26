@@ -1,0 +1,5 @@
+train (t-jnx65pi304uelvt2r0rzncsot) {
+  utterance ("[g:InfoSearchState] (12월)[v:viv.time.DateTimeExpression]에 하는 (연말공연)[v:Title] 좀 (찾아줘)[v:SearchKeyword]봐봐")
+  plan (Y2BlkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQyy2CW9UyvL84tSGETRpUMyS3KARpZllumVZOam6rkAbQgBMlwrCopSi4sz8/MYWBgYGZgYmIE0A5AFgTAAEoPKAQA=)
+  last-modified (1571911783218)
+}

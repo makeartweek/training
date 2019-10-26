@@ -1,0 +1,10 @@
+train (t-sln46ewq6cgw1n0gnidof4bhw) {
+  utterance ("[g:InfoSearchState] (12월)[v:time.DateTimeExpression]에 하는 (콘서트)[v:Type:콘서트]랑 (전시)[v:Type:전시] (알려줘)[v:SearchKeyword]")
+  plan (Y2BnkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQyy2CW9UyvL84tSGETQpUMqC1JJEpUuyyzTK8nMTdVzATomBMhwrSgoSi0uzszPY2BjYGRgYmBmYGFgBbIZgDxGII8ZTIMADxCCACsQM8FUAQA=)
+  last-modified (1571971113796)
+}
+train (t-soihbzbz5xdi2tdy13qfbtmg9) {
+  utterance ("[g:InfoSearchState] (서울)[v:District:서울]에서 하는 공연 (알려줘)[v:SearchKeyword]")
+  plan (Y2BhkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JIumcUlRZnJJQyy2LV5p1aW5xelMDAzMDIwAUkGIA2CEADig0UB)
+  last-modified (1572002949708)
+}

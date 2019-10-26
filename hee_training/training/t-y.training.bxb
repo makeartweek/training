@@ -1,0 +1,15 @@
+train (t-y82hr1bzzh5nteg7ibfgd5h7v) {
+  utterance ("[g:InfoSearchState] (을지로)[v:District:중구] 근처 (연극)[v:Type:연극] (찾아봐줘)[v:SearchKeyword]")
+  plan (Y2BlkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JIumcUlRZnJJQyy2LV5p1aW5xelMIigS4dUFqQysDAwMjAxMANpBiALAmEAJAaVAwA=)
+  last-modified (1572067784053)
+}
+train (t-y9ttovfiuqr47b7ipumkum2q8) {
+  utterance ("[g:InfoSearchState] (할로윈)[v:Title] 관련 공연 (찾아봐)[v:SearchKeyword]")
+  plan (Y2BhkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQyy2CW9UyvL84tSGETRpUMyS3JSGZgZGBmYgCQDkAZBCADxwaIA)
+  last-modified (1572054906068)
+}
+train (t-yi32z8ldfadda4ck0bmf8l9wm) {
+  utterance ("[g:InfoSearchState] (콘서트)[v:Type:콘서트]에 (박권응)[v:Performer] (나온거)[v:PerformerPostposition] (있어)[v:SearchKeyword]?")
+  plan (Y2BjkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQyS6JIBqUVp+UW5qUUMqjilAvKLSwryizNLMvPzGGSxG++dWlmeX5TCIIIuHVJZkMrAysDIwMTAzMACZDEA2TCIACBxuAoA)
+  last-modified (1572054754637)
+}

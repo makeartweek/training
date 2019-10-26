@@ -1,0 +1,5 @@
+train (t-2a95dc6t4tvg346kx1755p6k0) {
+  utterance ("[g:InfoSearchState] (영등포)[v:District:영등포구]에서 볼만한 (콘서트)[v:Type:콘서트] (추천해줘)[v:SearchKeyword]")
+  plan (Y2BlkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JIumcUlRZnJJQyy2LV5p1aW5xelMIigS4dUFqQysDAwMjAxMANpBiALAmEAJAaVAwA=)
+  last-modified (1572070518857)
+}

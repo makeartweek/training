@@ -1,0 +1,5 @@
+train (t-qpd73dbq3j1o0mt2ede9swxr4) {
+  utterance ("[g:InfoSearchState] (1월)[v:time.DateTimeExpression]에 (홍대)[v:District:마포구]에서 하는 (콘서트)[v:Type:콘서트] (알려줘)[v:SearchKeyword]")
+  plan (Y2BjkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JIumcUlRZnJJQyy2LV5p1aW5xelMIigS4dUFgDtKsss0yvJzE3VcwFaHQJkuFYUFKUWF2fm5zGwMjAyMDEwM7AAWQxANgwiAEgcrgIA)
+  last-modified (1571911150758)
+}

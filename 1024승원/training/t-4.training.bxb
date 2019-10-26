@@ -1,0 +1,5 @@
+train (t-4kras2lctgz41h1roz1w41x7m) {
+  utterance ("[g:artweek.artweek.NearSearchState] (내 주변)[v:artweek.artweek.Nearby:근처]에서 하는 (콘서트)[v:artweek.artweek.Type:콘서트] (알려주라)[v:artweek.artweek.SearchKeyword]")
+  plan (Y2BjkE8sKilPTc3Wg9F+qYlFwUCcnBFckliSyqCArgAi6VTpk5+cWJKZn8cghs2IpEoGWew6vVMry/OLUhhE0KVDKgtSGQTKMsv00lPz9dxT8wPyM/NKGFgZGBmYGJgZWIAsBiAbBhGABYghKhgA)
+  last-modified (1571912661653)
+}

@@ -1,0 +1,5 @@
+train (t-x0xt574z8uwajevopvodfd27w) {
+  utterance ("[g:artweek.artweek.InfoSearchState] (오후)[v:time.DateTimeExpression]에 하는 다른 공연은 (없어)[v:artweek.artweek.SearchKeyword]?")
+  plan (Y2BhkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQyy2CW9UyvL84tSGKTLMsv0SjJzU/VcgEaFABmuFQVFqcXFmfl5DMwMjAxMQJIBSIMgBID4YFEA)
+  last-modified (1571983959360)
+}

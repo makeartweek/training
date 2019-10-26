@@ -1,0 +1,19 @@
+train (t-c4s5pwroe78xd7sdhpa68ah7o) {
+  utterance ("[g:InfoSearchState] (장범준)[v:Performer]의 (콘서트)[v:Type:콘서트] 일정 (알고싶지롱)[v:SearchKeyword]")
+  plan (Y2BlkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQyS6JIBqUVp+UW5qUUMstj1eadWlucXpTCIoEuHVBakMrAwMDIwMTADaQYgCwJhACQGlQMA)
+  last-modified (1572070967027)
+}
+train (t-c6fhzaromgryyrk41babj1eua) {
+  utterance ("[g:InfoSearchState] (연말)[v:time.DateTimeExpression]에 있는 (전시회)[v:Type:전시] (찾아줘)[v:SearchKeyword]")
+  plan (Y2BlkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQyy2CW9UyvL84tSGETQpUMqC4AmlmWW6ZVk5qbquQAtCAEyXCsKilKLizPz8xhYGBgZmBiYgTQDkAWBMAASg8oBAA==)
+  last-modified (1572066413366)
+}
+train (t-cm9yltcvfmvs7r7v7z4b7b8t3) {
+  utterance ("[g:InfoSearchState] (코엑스)[v:Location]에서 하는 (뮤지컬)[v:Type:뮤지컬] 가격정보 좀 (검색해줘)[v:SearchKeyword]")
+  plan (Y2BlkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JI++cmJJZn5eQyy2LV5p1aW5xelMIigS4dUFqQysDAwMjAxMANpBiALAmEAJAaVAwA=)
+  last-modified (1572070985655)
+}
+train (t-cunfgms6vlx9fk2btpk5s7i3i) {
+  utterance ("[g:InfoSearchState] (장범준)[v:Performer:장범준]의 (콘서트)[v:Type:콘서트] 일정 (알고싶어)[v:SearchKeyword]")
+  last-modified (1572064581620)
+}

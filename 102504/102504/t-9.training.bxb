@@ -1,0 +1,5 @@
+train (t-9yjtcu49lcxfo82bn9rmnt3qc) {
+  utterance ("[g:artweek.artweek.InfoSearchState] 공연하는 (연극)[v:artweek.artweek.Type:연극] (알려줄래)[v:artweek.artweek.SearchKeyword]")
+  plan (Y2BhkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQyy2CW9UyvL84tSGETQpUMqC1IZmBkYGZiAJAOQBkEIAPHBogA=)
+  last-modified (1571986638100)
+}

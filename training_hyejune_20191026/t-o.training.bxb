@@ -1,0 +1,25 @@
+train (t-o8uuphi36kwh3vvy6qowg8x3e) {
+  utterance ("[g:InfoSearchState] (구리아트홀)[v:Location] 공연정보 (보여줘)[v:SearchKeyword]")
+  plan (Y2BhkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JI++cmJJZn5eQyy2LV5p1aW5xelMDAzMDIwAUkGIA2CEADig0UB)
+  last-modified (1572070436275)
+}
+train (t-oe2thfa2nm8zoau93jrbtzord) {
+  utterance ("[g:InfoSearchState] (서현역)[v:District:분당구] 주변에서 볼거 (찾아내)[v:SearchKeyword]")
+  plan (Y2BhkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JIumcUlRZnJJQyy2LV5p1aW5xelMDAzMDIwAUkGIA2CEADig0UB)
+  last-modified (1572072811268)
+}
+train (t-ol8xgm3vxx977ii40ko8yhgk6) {
+  utterance ("[g:InfoSearchState] (성남)[v:District:성남시] 근처에 갈만한거 (있을까)[v:SearchKeyword]")
+  plan (Y2BhkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JIumcUlRZnJJQyy2LV5p1aW5xelMDAzMDIwAUkGIA2CEADig0UB)
+  last-modified (1572071522820)
+}
+train (t-osbbw8ki5wo1pelpw17gky5y6) {
+  utterance ("[g:NearSearchState] (주변)[v:Nearby:근처]에서 (뭐해)[v:SearchKeyword]?")
+  plan (Y2BlkE8sKilPTc3Wg9F+qYlFwUCcnBFckliSyqCArgAi6VTpk5+cWJKZn8cghs2IpEoGWew6vVMry/OLUhgEyjLL9NJT8/XcU/MD8jPzShhYGBgZmBiYgTQDkAWBMMAMxCA5BgA=)
+  last-modified (1571913737745)
+}
+train (t-otvp7jsv01hncg9u3ornh5kha) {
+  utterance ("[g:InfoSearchState] (1월)[v:viv.time.DateTimeExpression]에 하는 (콘서트)[v:Type:콘서트] (알려줘)[v:SearchKeyword]")
+  plan (Y2BlkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQyy2CW9UyvL84tSGETQpUMqC4AmlmWW6ZVk5qbquQAtCAEyXCsKilKLizPz8xhYGBgZmBiYgTQDkAWBMAASg8oBAA==)
+  last-modified (1571996420257)
+}

@@ -1,0 +1,5 @@
+train (t-jwmkegivbn2oly4b8kdjtn9lz) {
+  utterance ("[g:InfoSearchState] (서울)[v:District:서울]에서 하는 (전시)[v:Type:전시] 좀 (가져와봐)[v:SearchKeyword]")
+  plan (Y2BlkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JIumcUlRZnJJQyy2LV5p1aW5xelMIigS4dUFqQysDAwMjAxMANpBiALAmEAJAaVAwA=)
+  last-modified (1571986698057)
+}

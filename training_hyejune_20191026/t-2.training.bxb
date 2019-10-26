@@ -1,0 +1,5 @@
+train (t-2fi3tnrbibo32mlw1m32q9e9l) {
+  utterance ("[g:InfoSearchState] (정자역)[v:District:분당구]근처 (전시)[v:Type:전시] (보여줘)[v:SearchKeyword]")
+  plan (Y2BlkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JIumcUlRZnJJQyy2LV5p1aW5xelMIigS4dUFqQysDAwMjAxMANpBiALAmEAJAaVAwA=)
+  last-modified (1572073180309)
+}

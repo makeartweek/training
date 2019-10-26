@@ -1,0 +1,10 @@
+train (t-p4kyowanp45st2871qcn6x6mx) {
+  utterance ("[g:InfoSearchState] (의정부시)[v:District:의정부시]에서 하는 (음악 콘서트)[v:Type:콘서트] (검색해줘요)[v:SearchKeyword]")
+  plan (Y2BlkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JIumcUlRZnJJQyy2LV5p1aW5xelMIigS4dUFqQysDAwMjAxMANpBiALAmEAJAaVAwA=)
+  last-modified (1572070713706)
+}
+train (t-p9snaxt2r1mz2wr0mqbh991ho) {
+  utterance ("[g:InfoSearchState] (평택시)[v:District:평택시]에서 하는 (클래식연주회)[v:Type:클래식] (봐바)[v:SearchKeyword]")
+  plan (Y2BlkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JIumcUlRZnJJQyy2LV5p1aW5xelMIigS4dUFqQysDAwMjAxMANpBiALAmEAJAaVAwA=)
+  last-modified (1572071553276)
+}

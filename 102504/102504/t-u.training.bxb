@@ -1,0 +1,5 @@
+train (t-u2jgmt9zx0xxq6cfbpsck719s) {
+  utterance ("[g:InfoSearchState] (연말)[v:viv.time.DateTimeExpression]에 하는 공연 좀 (알려줄 수 있어)[v:SearchKeyword]?")
+  plan (Y2BhkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQyy2CW9UyvL84tSGKTLMsv0SjJzU/VcgEaFABmuFQVFqcXFmfl5DMwMjAxMQJIBSIMgBID4YFEA)
+  last-modified (1571984161289)
+}

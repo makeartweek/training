@@ -1,0 +1,15 @@
+train (t-omg00r4k5xveygyuwfe1o31sp) {
+  utterance ("[g:InfoSearchState] (강북구)[v:District:강북구]랑 가까운 데에서 하는 (뮤지컬)[v:Type:뮤지컬] (보여주세요)[v:SearchKeyword]")
+  plan (Y2BlkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JIumcUlRZnJJQyy2LV5p1aW5xelMIigS4dUFqQysDAwMjAxMANpBiALAmEAJAaVAwA=)
+  last-modified (1572073022360)
+}
+train (t-onate0779h581mufksq3bxfry) {
+  utterance ("[g:InfoSearchState] (용인시)[v:District:용인시]에서 (단독콘서트)[v:Type:콘서트] 하는거 (있어)[v:SearchKeyword]")
+  plan (Y2BlkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JIumcUlRZnJJQyy2LV5p1aW5xelMIigS4dUFqQysDAwMjAxMANpBiALAmEAJAaVAwA=)
+  last-modified (1572066231979)
+}
+train (t-ooy7sxx5dib97guar5bca7oog) {
+  utterance ("[g:InfoSearchState] (강서구)[v:District:강서구]에서 열리는 (공연)[v:Type:콘서트] (말해줘)[v:SearchKeyword]")
+  plan (Y2BlkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JIumcUlRZnJJQyy2LV5p1aW5xelMIigS4dUFqQysDAwMjAxMANpBiALAmEAJAaVAwA=)
+  last-modified (1572072907178)
+}

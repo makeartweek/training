@@ -1,0 +1,10 @@
+train (t-n7zn5ugir6obll1y2fc7k2j7k) {
+  utterance ("[g:InfoSearchState] (오산시)[v:District:오산시]에서 볼거 (있어)[v:SearchKeyword]")
+  plan (Y2BhkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JIumcUlRZnJJQyy2LV5p1aW5xelMDAzMDIwAUkGIA2CEADig0UB)
+  last-modified (1572066367888)
+}
+train (t-ndw12kn5n9sfve80c6j1wlhb3) {
+  utterance ("[g:InfoSearchState] (양주시)[v:District:양주시]에서 볼만한거 (있어)[v:SearchKeyword]")
+  plan (Y2BhkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JIumcUlRZnJJQyy2LV5p1aW5xelMDAzMDIwAUkGIA2CEADig0UB)
+  last-modified (1572066531208)
+}

@@ -1,0 +1,5 @@
+train (t-s1gqo356fqs9hrdv8cb319fbs) {
+  utterance ("[g:InfoSearchState] (연말)[v:time.DateTimeExpression]에 (콘서트)[v:Type:콘서트] (뭐있어)[v:SearchKeyword]?")
+  plan (Y2BlkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQyy2CW9UyvL84tSGETQpUMqC4AmlmWW6ZVk5qbquQAtCAEyXCsKilKLizPz8xhYGBgZmBiYgTQDkAWBMAASg8oBAA==)
+  last-modified (1572054601384)
+}

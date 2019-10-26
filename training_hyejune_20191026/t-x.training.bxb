@@ -1,0 +1,5 @@
+train (t-xduphn89vf7f3r9ated797732) {
+  utterance ("[g:InfoSearchState] 나 (강남역)[v:District:강남구] 주변 (콘서트)[v:Type:콘서트] (보러갈래)[v:SearchKeyword]")
+  plan (Y2BlkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JIumcUlRZnJJQyy2LV5p1aW5xelMIigS4dUFqQysDAwMjAxMANpBiALAmEAJAaVAwA=)
+  last-modified (1572071024729)
+}

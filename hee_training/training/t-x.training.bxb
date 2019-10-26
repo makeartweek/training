@@ -1,0 +1,15 @@
+train (t-x4mo0a8ay0x5b7gw2b73rj6xf) {
+  utterance ("[g:InfoSearchState] (장범준)[v:Performer]의 (콘서트)[v:Type:콘서트] 일정 (알고싶지롱)[v:SearchKeyword]")
+  plan (Y2BlkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQyS6JIBqUVp+UW5qUUMstj1eadWlucXpTCIoEuHVBakMrAwMDIwMTADaQYgCwJhACQGlQMA)
+  last-modified (1571984927092)
+}
+train (t-x71qdp0hs2zt82p63rl8p03g9) {
+  utterance ("[g:InfoSearchState] 지금 (카더가든)[v:Title] (콘서트)[v:Type:콘서트] (있어)[v:SearchKeyword]?")
+  plan (Y2BlkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQyy2CW9UyvL84tSGETRpUMyS3JSGUQwhCsLUhlYGBgZmBiYgTQDkAWBMAASg8oBAA==)
+  last-modified (1572054833811)
+}
+train (t-xj97ay6gtutt8zwnvwlzt68hl) {
+  utterance ("[g:InfoSearchState] (카더가든)[v:Title] 공연 (나왔어)[v:SearchKeyword]?")
+  plan (Y2BhkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQyy2CW9UyvL84tSGETRpUMyS3JSGZgZGBmYgCQDkAZBCADxwaIA)
+  last-modified (1572054785563)
+}

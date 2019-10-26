@@ -1,0 +1,5 @@
+train (t-hexg9mecvv5oos60ydlue39ki) {
+  utterance ("[g:InfoSearchState] 볼만한 것 뭐 (있을까)[v:SearchKeyword]")
+  plan (Y2BmkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQyy2CW9UyvL84tSGJgYGIGYAUgyMoAAEwQDAA==)
+  last-modified (1572071341854)
+}

@@ -1,0 +1,5 @@
+train (t-x2njjfg1uumfq83kqxvadbc9q) {
+  utterance ("[g:InfoSearchState] (성남)[v:District:성남시]에서 하는 (뮤지컬)[v:Type:뮤지컬] (알려줘)[v:SearchKeyword]")
+  plan (Y2BlkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JIumcUlRZnJJQyy2LV5p1aW5xelMIigS4dUFqQysDAwMjAxMANpBiALAmEAJAaVAwA=)
+  last-modified (1572073336387)
+}

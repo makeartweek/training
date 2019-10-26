@@ -1,0 +1,5 @@
+train (t-2z3dh1tcm8hqc38hu7tn24d6t) {
+  utterance ("[g:InfoSearchState] (서초구)[v:District:서초구]에서 (뭐해)[v:SearchKeyword]")
+  plan (Y2BhkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JIumcUlRZnJJQyy2LV5p1aW5xelMDAzMDIwAUkGIA2CEADig0UB)
+  last-modified (1572067678435)
+}

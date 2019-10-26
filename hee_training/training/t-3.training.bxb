@@ -1,0 +1,10 @@
+train (t-34n3kneoavdtcydn57qnzpm79) {
+  utterance ("[g:artweek.artweek.InfoSearchState] (종로)[v:artweek.artweek.District:종로구]구에서 볼만한 (전시)[v:artweek.artweek.Type:전시] (찾아줘)[v:artweek.artweek.SearchKeyword]")
+  plan (Y2BlkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JIumcUlRZnJJQyy2LV5p1aW5xelMIigS4dUFqQysDAwMjAxMANpBiALAmEAJAaVAwA=)
+  last-modified (1572070423056)
+}
+train (t-38r0nsuso0br2fgdcw0yivs2w) {
+  utterance ("[g:artweek.artweek.InfoSearchState] (동작구)[v:artweek.artweek.District:동작구]에서 갈만한 (콘서트)[v:artweek.artweek.Type:콘서트] (있어)[v:artweek.artweek.SearchKeyword]")
+  plan (Y2BlkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JIumcUlRZnJJQyy2LV5p1aW5xelMIigS4dUFqQysDAwMjAxMANpBiALAmEAJAaVAwA=)
+  last-modified (1572072998625)
+}

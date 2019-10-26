@@ -1,0 +1,10 @@
+train (t-b32t13wqe315hb30dce5usxuz) {
+  utterance ("[g:InfoSearchState] (12월)[v:time.DateTimeExpression]에 (장범준)[v:Performer](이 하는)[v:PerformerPostposition] (콘서트)[v:Type:콘서트] 좀 알려주겠어요")
+  plan (Y2BjkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQyS6JIBqUVp+UW5qUUMqjilAvKLSwryizNLMvPzGETQlYVUFgAtLcss0yvJzE3VcwG6IQTIcK0oKEotLgZpYWVgZGBiYGZgAbIYgGwYRACQOFwFAA==)
+  last-modified (1571912170469)
+}
+train (t-bsb0jlitehe6kt1zgdk1s1ctn) {
+  utterance ("[g:InfoSearchState] (뮤지컬)[v:Type:뮤지컬] (맘마미아)[v:Title] (보여줘)[v:SearchKeyword]")
+  plan (Y2BlkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQyy2CW9UyvL84tSGETRpUMyS3JSGUQwhCsLUhlYGBgZmBiYgTQDkAWBMAASg8oBAA==)
+  last-modified (1572003223247)
+}

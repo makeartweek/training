@@ -1,0 +1,10 @@
+train (t-tbhmzuyaxg9vizicohfpreob9) {
+  utterance ("[g:InfoSearchState] (혜화역)[v:District:종로구]에서 하는 공연 뭐 (있어)[v:SearchKeyword]?")
+  plan (Y2BhkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JIumcUlRZnJJQyy2LV5p1aW5xelMDAzMDIwAUkGIA2CEADig0UB)
+  last-modified (1571914913245)
+}
+train (t-tf7ounazmzslugt9p6pbmfskv) {
+  utterance ("[g:NearSearchState] (내 근처)[v:Nearby:근처]에서 하는 (콘서트)[v:Type:콘서트] (알려줘)[v:SearchKeyword]")
+  plan (Y2BjkE8sKilPTc3Wg9F+qYlFwUCcnBFckliSyqCArgAi6VTpk5+cWJKZn8cghs2IpEoGWew6vVMry/OLUhhE0KVDKgtSGQTKMsv00lPz9dxT8wPyM/NKGFgZGBmYGJgZWIAsBiAbBhGABYghKhgA)
+  last-modified (1571912592180)
+}

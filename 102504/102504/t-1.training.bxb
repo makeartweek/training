@@ -1,0 +1,10 @@
+train (t-1djw9nlu8waqiy9po5nhw8po5) {
+  utterance ("[g:artweek.artweek.InfoSearchState] (대학교)[v:Location]에서 하는 모든 공연 정보 (찾아줘)[v:artweek.artweek.SearchKeyword]")
+  plan (Y2BhkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JI++cmJJZn5eQyy2LV5p1aW5xelMDAzMDIwAUkGIA2CEADig0UB)
+  last-modified (1571985467854)
+}
+train (t-1oix7t02wa79r555afwz3yybj) {
+  utterance ("[g:artweek.artweek.InfoSearchState] (내일)[v:time.DateTimeExpression] 여는 (전시)[v:artweek.artweek.Type:전시] (찾아줘)[v:artweek.artweek.SearchKeyword]")
+  plan (Y2BlkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQyy2CW9UyvL84tSGETQpUMqC4AmlmWW6ZVk5qbquQAtCAEyXCsKilKLizPz8xhYGBgZmBiYgTQDkAWBMAASg8oBAA==)
+  last-modified (1571984293047)
+}

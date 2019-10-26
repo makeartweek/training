@@ -1,0 +1,5 @@
+train (t-538dyy1gf5cj8w6mpkergedqo) {
+  utterance ("[g:InfoSearchState] (장범준)[v:Title] (콘서트)[v:Type:콘서트] (언제있어)[v:SearchKeyword]?")
+  plan (Y2BlkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQyy2CW9UyvL84tSGETRpUMyS3JSGUQwhCsLUhlYGBgZmBiYgTQDkAWBMAASg8oBAA==)
+  last-modified (1572054464133)
+}

@@ -1,0 +1,5 @@
+train (t-z9nwlewmy20qexydwc2foa6k8) {
+  utterance ("[g:InfoSearchState] (만안구)[v:District:만안구]에서 (추천해줘)[v:SearchKeyword]")
+  plan (Y2BhkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JIumcUlRZnJJQyy2LV5p1aW5xelMDAzMDIwAUkGIA2CEADig0UB)
+  last-modified (1572066436920)
+}

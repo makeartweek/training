@@ -1,0 +1,5 @@
+train (t-fs2hue5hw83j6litfve7run0v) {
+  utterance ("[g:InfoSearchState] (이번주)[v:time.DateTimeExpression]에 (성동구)[v:District:성동구]에서 (뭐해)[v:SearchKeyword]")
+  plan (Y2BlkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JIumcUlRZnJJQyy2LV5p1aW5xelMEiXZZbplWTmpuq5AC0JATJcKwqKUouLM/PzGFgYGBmYGJiBNAOQBYEwABKDygEA)
+  last-modified (1572070856701)
+}

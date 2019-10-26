@@ -1,0 +1,10 @@
+train (t-ldfscycf5r0xg6jpbw7ryum38) {
+  utterance ("[g:InfoSearchState] (안산시)[v:District:안산시]에서 하는거 (있어)[v:SearchKeyword]?")
+  plan (Y2BhkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JIumcUlRZnJJQyy2LV5p1aW5xelMDAzMDIwAUkGIA2CEADig0UB)
+  last-modified (1572066840303)
+}
+train (t-ll0nmoifmu3ml6vd1v3r4n98v) {
+  utterance ("[g:InfoSearchState] (관악구)[v:District:관악구]에서 진행하는 (내한공연)[v:Type:콘서트] 뭐(있어)[v:SearchKeyword]")
+  plan (Y2BlkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JIumcUlRZnJJQyy2LV5p1aW5xelMIigS4dUFqQysDAwMjAxMANpBiALAmEAJAaVAwA=)
+  last-modified (1572072821150)
+}

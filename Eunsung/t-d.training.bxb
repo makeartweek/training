@@ -1,0 +1,5 @@
+train (t-d4whiismpyvrnajhbesq3nhpi) {
+  utterance ("[g:NearSearchState] (주변)[v:Nearby:근처] (콘서트)[v:Type:콘서트] 티켓 가격 (얼마지)[v:SearchKeyword]")
+  plan (Y2BjkE8sKilPTc3Wg9F+qYlFwUCcnBFckliSyqCArgAi6VTpk5+cWJKZn8cghs2IpEoGWew6vVMry/OLUhhE0KVDKgtSGQTKMsv00lPz9dxT8wPyM/NKGFgZGBmYGJgZWIAsBiAbBhGABYghKhgA)
+  last-modified (1572064508988)
+}

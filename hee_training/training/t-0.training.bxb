@@ -1,0 +1,5 @@
+train (t-0p0ss3578fu3y5a3z5vlftloy) {
+  utterance ("[g:InfoSearchState] (부평)[v:District:부평구]에서 하는 (전시)[v:Type:전시] 있으면 (보여줘)[v:SearchKeyword]")
+  plan (Y2BlkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JIumcUlRZnJJQyy2LV5p1aW5xelMIigS4dUFqQysDAwMjAxMANpBiALAmEAJAaVAwA=)
+  last-modified (1572070162987)
+}

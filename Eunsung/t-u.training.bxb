@@ -1,0 +1,5 @@
+train (t-urrx02zjzgry1fsv443c2253i) {
+  utterance ("[g:InfoSearchState] (연말)[v:time.DateTimeExpression] (전시회)[v:Type:전시] (뭐있어)[v:SearchKeyword]")
+  plan (Y2BlkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQyy2CW9UyvL84tSGETQpUMqC4AmlmWW6ZVk5qbquQAtCAEyXCsKilKLizPz8xhYGBgZmBiYgTQDkAWBMAASg8oBAA==)
+  last-modified (1572070505630)
+}

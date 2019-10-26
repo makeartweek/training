@@ -1,0 +1,15 @@
+train (t-hvjx17tqnr87vj0cl28ljxerq) {
+  utterance ("[g:InfoSearchState] (이번달)[v:time.DateTimeExpression]에 (성북구)[v:District:성북구]에서 하는 (전시)[v:Type:전시] (있어)[v:SearchKeyword]")
+  plan (Y2BjkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JIumcUlRZnJJQyy2LV5p1aW5xelMIigS4dUFgDtKsss0yvJzE3VcwFaHQJkuFYUFKUWF2fm5zGwMjAyMDEwM7AAWQxANgwiAEgcrgIA)
+  last-modified (1572070747865)
+}
+train (t-hvkxk6dok0q87k1ojrrw9i8dz) {
+  utterance ("[g:InfoSearchState] (인천 남동구)[v:District:남동구] 주변 (전시)[v:Type:전시] (찾아줘)[v:SearchKeyword]")
+  plan (Y2BlkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JIumcUlRZnJJQyy2LV5p1aW5xelMIigS4dUFqQysDAwMjAxMANpBiALAmEAJAaVAwA=)
+  last-modified (1572066719979)
+}
+train (t-hzvs1bzrfpigowog1ojx1lkvl) {
+  utterance ("[g:NearSearchState] (주변)[v:Nearby:근처] (콘서트)[v:Type:콘서트] 티켓 가격 (얼마지)[v:SearchKeyword]")
+  plan (Y2BjkE8sKilPTc3Wg9F+qYlFwUCcnBFckliSyqCArgAi6VTpk5+cWJKZn8cghs2IpEoGWew6vVMry/OLUhhE0KVDKgtSGQTKMsv00lPz9dxT8wPyM/NKGFgZGBmYGJgZWIAsBiAbBhGABYghKhgA)
+  last-modified (1572054649027)
+}

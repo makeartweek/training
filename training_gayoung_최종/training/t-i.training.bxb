@@ -1,0 +1,5 @@
+train (t-it0v3okpihrjirm41tl5m5my4) {
+  utterance ("[g:InfoSearchState] (노원구)[v:District:노원구]에서 볼만한 (노래)[v:Type:콘서트] (가져와)[v:SearchKeyword]")
+  plan (Y2BlkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JIumcUlRZnJJQyy2LV5p1aW5xelMIigS4dUFqQysDAwMjAxMANpBiALAmEAJAaVAwA=)
+  last-modified (1572069967785)
+}

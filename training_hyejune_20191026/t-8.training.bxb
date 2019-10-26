@@ -1,0 +1,15 @@
+train (t-84fv480u0kxg8qn96xzpkxrxm) {
+  utterance ("[g:InfoSearchState] (덕양구)[v:District:덕양구] 주변 (검색해줘)[v:SearchKeyword]")
+  plan (Y2BhkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JIumcUlRZnJJQyy2LV5p1aW5xelMDAzMDIwAUkGIA2CEADig0UB)
+  last-modified (1572069328205)
+}
+train (t-8e4jhpdvhbsj9vnrkru7m1s90) {
+  utterance ("[g:InfoSearchState] (올모스트)[v:Title]라는 (연극)[v:Type:연극] (있어)[v:SearchKeyword]?")
+  plan (Y2BlkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQyy2CW9UyvL84tSGETRpUMyS3JSGUQwhCsLUhlYGBgZmBiYgTQDkAWBMAASg8oBAA==)
+  last-modified (1572003713870)
+}
+train (t-8z5nza9h5rbsbxxy239zweq69) {
+  utterance ("[g:InfoSearchState] (과천시)[v:District:과천시]에 뭐 볼만한거 (있어)[v:SearchKeyword]?")
+  plan (Y2BhkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JIumcUlRZnJJQyy2LV5p1aW5xelMDAzMDIwAUkGIA2CEADig0UB)
+  last-modified (1572070124766)
+}

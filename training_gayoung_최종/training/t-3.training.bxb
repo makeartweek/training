@@ -1,0 +1,10 @@
+train (t-34pvrdrt6ufy8far5nsj7c5ob) {
+  utterance ("[g:InfoSearchState] (중구)[v:District:중구]에 (연극)[v:Type:연극]하는거 (없어)[v:SearchKeyword]")
+  plan (Y2BlkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JIumcUlRZnJJQyy2LV5p1aW5xelMIigS4dUFqQysDAwMjAxMANpBiALAmEAJAaVAwA=)
+  last-modified (1572073983059)
+}
+train (t-3jouqiyf309mhsjs57gk6mz1z) {
+  utterance ("[g:InfoSearchState] (금천구)[v:District:금천구] 주변에 (극장)[v:Type:연극] (있어)[v:SearchKeyword]")
+  plan (Y2BlkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JIumcUlRZnJJQyy2LV5p1aW5xelMIigS4dUFqQysDAwMjAxMANpBiALAmEAJAaVAwA=)
+  last-modified (1572071257609)
+}

@@ -1,0 +1,5 @@
+train (t-w0duypwdud3wpf1kf7f3hi0dn) {
+  utterance ("[g:artweek.artweek.NearSearchState] (근처)[v:artweek.artweek.Nearby:근처]에서 하는 괜찮은 (연극)[v:artweek.artweek.Type:연극] 좀 (알려줄래)[v:artweek.artweek.SearchKeyword]")
+  plan (Y2BjkE8sKilPTc3Wg9F+qYlFwUCcnBFckliSyqCArgAi6VTpk5+cWJKZn8cghs2IpEoGWew6vVMry/OLUhhE0KVDKgtSGQTKMsv00lPz9dxT8wPyM/NKGFgZGBmYGJgZWIAsBiAbBhGABYghKhgA)
+  last-modified (1571914012665)
+}

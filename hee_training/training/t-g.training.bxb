@@ -1,0 +1,5 @@
+train (t-gptn5fxgryesk78t501141fpo) {
+  utterance ("[g:InfoSearchState] (동대문구)[v:District:동대문구]에서 하는 (콘서트)[v:Type:콘서트] (보여줘)[v:SearchKeyword]")
+  plan (Y2BlkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JIumcUlRZnJJQyy2LV5p1aW5xelMIigS4dUFqQysDAwMjAxMANpBiALAmEAJAaVAwA=)
+  last-modified (1572073158193)
+}

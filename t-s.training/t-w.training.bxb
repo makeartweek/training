@@ -1,0 +1,10 @@
+train (t-w0duypwdud3wpf1kf7f3hi0dn) {
+  utterance ("[g:NearSearchState] (근처)[v:Nearby:근처]에서 하는 괜찮은 (연극)[v:Type:연극] 좀 (알려줄래)[v:SearchKeyword]")
+  plan (Y2BjkE8sKilPTc3Wg9F+qYlFwUCcnBFckliSyqCArgAi6VTpk5+cWJKZn8cghs2IpEoGWew6vVMry/OLUhhE0KVDKgtSGQTKMsv00lPz9dxT8wPyM/NKGFgZGBmYGJgZWIAsBiAbBhGABYghKhgA)
+  last-modified (1571996420504)
+}
+train (t-wsiuwximcwr11xu5x4fk8xv8y) {
+  utterance ("[g:InfoSearchState] (남구)[v:District:남구]에 (클래식 연주회)[v:Type:클래식] (부탁해)[v:SearchKeyword]")
+  plan (Y2BlkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JIumcUlRZnJJQyy2LV5p1aW5xelMIigS4dUFqQysDAwMjAxMANpBiALAmEAJAaVAwA=)
+  last-modified (1572072962234)
+}

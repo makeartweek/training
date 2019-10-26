@@ -1,0 +1,5 @@
+train (t-t900aodip6r21zf2z214rutoo) {
+  utterance ("[g:InfoSearchState] (뭐할까)[v:SearchKeyword] (코엑스)[v:Location]에선")
+  plan (Y2BhkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JI++cmJJZn5eQyy2LV5p1aW5xelMDAzMDIwAUkGIA2CEADig0UB)
+  last-modified (1572071834849)
+}

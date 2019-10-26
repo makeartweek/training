@@ -1,0 +1,10 @@
+train (t-e23oky5nl22vs8p0ee6uxuawj) {
+  utterance ("[g:artweek.artweek.NearSearchState] (주변)[v:artweek.artweek.Nearby:근처]에 있는 (연극)[v:artweek.artweek.Type:연극] (확인해줘)[v:SearchKeyword]")
+  plan (Y2BjkE8sKilPTc3Wg9F+qYlFwUCcnBFckliSyqCArgAi6VTpk5+cWJKZn8cghs2IpEoGWew6vVMry/OLUhhE0KVDKgtSGQTKMsv00lPz9dxT8wPyM/NKGFgZGBmYGJgZWIAsBiAbBhGABYghKhgA)
+  last-modified (1571914427354)
+}
+train (t-ea11wkwx8ria8ydzgjsr1acgq) {
+  utterance ("[g:artweek.artweek.NearSearchState] (주변)[v:artweek.artweek.Nearby:근처]에서 하는 (연극)[v:artweek.artweek.Type:연극] (찾아줘)[v:artweek.artweek.SearchKeyword] ")
+  plan (Y2BjkE8sKilPTc3Wg9F+qYlFwUCcnBFckliSyqCArgAi6VTpk5+cWJKZn8cghs2IpEoGWew6vVMry/OLUhhE0KVDKgtSGQTKMsv00lPz9dxT8wPyM/NKGFgZGBmYGJgZWIAsBiAbBhGABYghKhgA)
+  last-modified (1571914600116)
+}

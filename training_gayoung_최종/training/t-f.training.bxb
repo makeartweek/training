@@ -1,0 +1,5 @@
+train (t-fvreilgup8l9q1sjmfklsln21) {
+  utterance ("[g:InfoSearchState] (구로구)[v:District:구로구]에서 하는 (연말콘서트)[v:Type:콘서트] (조회좀해줘)[v:SearchKeyword]")
+  plan (Y2BlkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JIumcUlRZnJJQyy2LV5p1aW5xelMIigS4dUFqQysDAwMjAxMANpBiALAmEAJAaVAwA=)
+  last-modified (1572071297669)
+}

@@ -1,0 +1,5 @@
+train (t-lpy1cbqb54szn6c9f26p7r9c3) {
+  utterance ("[g:artweek.artweek.InfoSearchState] (삼성카드홀)[v:Location]에서 하는 (뮤지컬)[v:artweek.artweek.Type:뮤지컬] 정보 (찾아줘)[v:artweek.artweek.SearchKeyword]")
+  plan (Y2BlkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JI++cmJJZn5eQyy2LV5p1aW5xelMIigS4dUFqQysDAwMjAxMANpBiALAmEAJAaVAwA=)
+  last-modified (1571985359811)
+}

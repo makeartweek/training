@@ -1,0 +1,10 @@
+train (t-i4w3gxipirx1cb9b6gzr1egbw) {
+  utterance ("[g:NearSearchState] 나랑 (가까운 데)[v:Nearby:근처]서 하는 (전시)[v:Type:전시] (검색해)[v:SearchKeyword]주겠니")
+  plan (Y2BjkE8sKilPTc3Wg9F+qYlFwUCcnBFckliSyqCArgAi6VTpk5+cWJKZn8cghs2IpEoGWew6vVMry/OLUhhE0KVDKgtSGQTKMsv00lPz9dxT8wPyM/NKGFgZGBmYGJgZWIAsBiAbBhGABYghKhgA)
+  last-modified (1571985061197)
+}
+train (t-istt630jkzf5c7o1lalavus60) {
+  utterance ("[g:InfoSearchState] (서울)[v:District:서울]에서 하는 모든 (미술전)[v:Type:전시] 좀 (알려주면 고마울듯)[v:SearchKeyword]")
+  plan (Y2BlkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JIumcUlRZnJJQyy2LV5p1aW5xelMIigS4dUFqQysDAwMjAxMANpBiALAmEAJAaVAwA=)
+  last-modified (1571986593856)
+}

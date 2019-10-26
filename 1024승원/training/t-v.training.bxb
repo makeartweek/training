@@ -1,0 +1,5 @@
+train (t-vxbggqtiuo46ngj8s8yy4vehk) {
+  utterance ("[g:NearSearchState] 여기서 (가까운)[v:Nearby:근처] (전시)[v:Type:전시] (보여줘)[v:SearchKeyword]")
+  plan (Y2BjkE8sKilPTc3Wg9F+qYlFwUCcnBFckliSyqCArgAi6VTpk5+cWJKZn8cghs2IpEoGWew6vVMry/OLUhhE0KVDKgtSGQTKMsv00lPz9dxT8wPyM/NKGFgZGBmYGJgZWIAsBiAbBhGABYghKhgA)
+  last-modified (1571913213819)
+}

@@ -1,0 +1,15 @@
+train (t-n4nkol4cj68tk7ovjii35hvix) {
+  utterance ("[g:NearSearchState] (인근)[v:Nearby:근처] (연극)[v:Type:연극] (알려줘)[v:SearchKeyword]  ")
+  plan (Y2BjkE8sKilPTc3Wg9F+qYlFwUCcnBFckliSyqCArgAi6VTpk5+cWJKZn8cghs2IpEoGWew6vVMry/OLUhhE0KVDKgtSGQTKMsv00lPz9dxT8wPyM/NKGFgZGBmYGJgZWIAsBiAbBhGABYghKhgA)
+  last-modified (1571914578479)
+}
+train (t-nl3pg4up4uc5o5otw8og2kdgw) {
+  utterance ("[g:artweek.artweek.NearSearchState] (가까운 위치)[v:artweek.artweek.Nearby:근처]에서 하는 (전시)[v:artweek.artweek.Type:전시] (확인 좀)[v:artweek.artweek.SearchKeyword]")
+  plan (Y2BjkE8sKilPTc3Wg9F+qYlFwUCcnBFckliSyqCArgAi6VTpk5+cWJKZn8cghs2IpEoGWew6vVMry/OLUhhE0KVDKgtSGQTKMsv00lPz9dxT8wPyM/NKGFgZGBmYGJgZWIAsBiAbBhGABYghKhgA)
+  last-modified (1571913774126)
+}
+train (t-nzv00m1w43s7hlbt4ck679mge) {
+  utterance ("[g:NearSearchState] (이곳에서)[v:Nearby:근처] 하는 (전시)[v:Type:전시] (알려줘)[v:SearchKeyword]")
+  plan (Y2BjkE8sKilPTc3Wg9F+qYlFwUCcnBFckliSyqCArgAi6VTpk5+cWJKZn8cghs2IpEoGWew6vVMry/OLUhhE0KVDKgtSGQTKMsv00lPz9dxT8wPyM/NKGFgZGBmYGJgZWIAsBiAbBhGABYghKhgA)
+  last-modified (1571913471095)
+}

@@ -1,0 +1,5 @@
+train (t-mmiizlx16xpczv7luszop5k2b) {
+  utterance ("[g:InfoSearchState] (구리역)[v:District:구리시] 주변 정보 (검색해줘)[v:SearchKeyword]")
+  plan (Y2BhkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JIumcUlRZnJJQyy2LV5p1aW5xelMDAzMDIwAUkGIA2CEADig0UB)
+  last-modified (1572070358083)
+}

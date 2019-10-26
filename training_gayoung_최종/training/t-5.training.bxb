@@ -1,0 +1,5 @@
+train (t-59hnajzxg50sld3nhjqo4f391) {
+  utterance ("[g:InfoSearchState] (의왕시)[v:District:의왕시]랑 가까운 곳에서 (미술전시회)[v:Type:전시] 하는거 (있어)[v:SearchKeyword]")
+  plan (Y2BlkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JIumcUlRZnJJQyy2LV5p1aW5xelMIigS4dUFqQysDAwMjAxMANpBiALAmEAJAaVAwA=)
+  last-modified (1572070968716)
+}

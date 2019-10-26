@@ -1,0 +1,5 @@
+train (t-jz3p636lgwj0u5alfvyxky3ix) {
+  utterance ("[g:InfoSearchState] (안양시)[v:District:안양시]에서 추천해줄거 (있어)[v:SearchKeyword]")
+  plan (Y2BhkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JIumcUlRZnJJQyy2LV5p1aW5xelMDAzMDIwAUkGIA2CEADig0UB)
+  last-modified (1572066703595)
+}

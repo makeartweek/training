@@ -1,0 +1,10 @@
+train (t-uazvbm3vl5c11zl4wx05vnkt3) {
+  utterance ("[g:artweek.artweek.NearSearchState] (주변)[v:artweek.artweek.Nearby:근처]에 하는거 (있어)[v:artweek.artweek.SearchKeyword]?")
+  plan (Y2BlkE8sKilPTc3Wg9F+qYlFwUCcnBFckliSyqCArgAi6VTpk5+cWJKZn8cghs2IpEoGWew6vVMry/OLUhgEyjLL9NJT8/XcU/MD8jPzShhYGBgZmBiYgTQDkAWBMMAMxCA5BgA=)
+  last-modified (1571913603975)
+}
+train (t-uqrypb4gcujyeb46ds9xael41) {
+  utterance ("[g:artweek.artweek.InfoSearchState] (양천구)[v:artweek.artweek.District:양천구]에서 (다음달)[v:viv.time.DateTimeExpression]에 볼 수 있는 공연 (보여줘)[v:artweek.artweek.SearchKeyword]")
+  plan (Y2BlkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JIumcUlRZnJJQyy2LV5p1aW5xelMEiXZZbplWTmpuq5AC0JATJcKwqKUouLM/PzGFgYGBmYGJiBNAOQBYEwABKDygEA)
+  last-modified (1572070591023)
+}

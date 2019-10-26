@@ -1,0 +1,5 @@
+train (t-yedmp7faoyvgi3apwkcindw9w) {
+  utterance ("[g:InfoSearchState] (서구)[v:District:서구] (오페라)[v:Type:오페라] (검색해줘)[v:SearchKeyword]")
+  plan (Y2BlkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JIumcUlRZnJJQyy2LV5p1aW5xelMIigS4dUFqQysDAwMjAxMANpBiALAmEAJAaVAwA=)
+  last-modified (1572073560955)
+}

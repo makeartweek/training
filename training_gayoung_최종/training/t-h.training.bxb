@@ -1,0 +1,5 @@
+train (t-h34sqh5aira6k70ui7kxkqlda) {
+  utterance ("[g:InfoSearchState] (상록구)[v:District:상록구]에서 하는 것 (있어)[v:SearchKeyword]")
+  plan (Y2BhkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JIumcUlRZnJJQyy2LV5p1aW5xelMDAzMDIwAUkGIA2CEADig0UB)
+  last-modified (1572066748795)
+}

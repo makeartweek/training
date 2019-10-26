@@ -1,0 +1,5 @@
+train (t-3pozzrpfm5vvqdvpvwdkldz96) {
+  utterance ("[g:artweek.artweek.InfoSearchState] (어제)[v:viv.time.DateTimeExpression]부터 열었던 (전시회)[v:artweek.artweek.Type:전시] (찾아주면 고맙겠다)[v:artweek.artweek.SearchKeyword]")
+  plan (Y2BlkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQyy2CW9UyvL84tSGETQpUMqC4AmlmWW6ZVk5qbquQAtCAEyXCsKilKLizPz8xhYGBgZmBiYgTQDkAWBMAASg8oBAA==)
+  last-modified (1571984241097)
+}

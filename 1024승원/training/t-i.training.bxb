@@ -1,0 +1,5 @@
+train (t-izz9k5cus6kqfz8n2sccablgj) {
+  utterance ("[g:InfoSearchState] (11월)[v:time.DateTimeExpression]에 (혜화역)[v:District:종로구]에서 하는 (연극)[v:Type:연극] 좀 (찾아줄래)[v:SearchKeyword]")
+  plan (Y2BjkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JIumcUlRZnJJQyy2LV5p1aW5xelMIigS4dUFgDtKsss0yvJzE3VcwFaHQJkuFYUFKUWF2fm5zGwMjAyMDEwM7AAWQxANgwiAEgcrgIA)
+  last-modified (1571911464491)
+}

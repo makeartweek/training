@@ -1,0 +1,20 @@
+train (t-q47ay5izqu0khdpw3cbho0kmt) {
+  utterance ("[g:InfoSearchState] (계양역)[v:District:계양구] 주변 (콘서트)[v:Type:콘서트] (있어)[v:SearchKeyword]")
+  plan (Y2BlkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JIumcUlRZnJJQyy2LV5p1aW5xelMIigS4dUFqQysDAwMjAxMANpBiALAmEAJAaVAwA=)
+  last-modified (1572066844312)
+}
+train (t-qf68d34vsq76ajlbt9kgvyigp) {
+  utterance ("[g:InfoSearchState] (전시회)[v:Type:전시] 정보 (연말)[v:time.DateTimeExpression]에 하는 걸로 (검색해달라고)[v:SearchKeyword]")
+  plan (Y2BlkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQyy2CW9UyvL84tSGETQpUMqC4AmlmWW6ZVk5qbquQAtCAEyXCsKilKLizPz8xhYGBgZmBiYgTQDkAWBMAASg8oBAA==)
+  last-modified (1571985287778)
+}
+train (t-qpd73dbq3j1o0mt2ede9swxr4) {
+  utterance ("[g:InfoSearchState] (1월)[v:time.DateTimeExpression]에 (홍대)[v:District:마포구]에서 하는 (콘서트)[v:Type:콘서트] (알려줘)[v:SearchKeyword]")
+  plan (Y2BjkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JIumcUlRZnJJQyy2LV5p1aW5xelMIigS4dUFgDtKsss0yvJzE3VcwFaHQJkuFYUFKUWF2fm5zGwMjAyMDEwM7AAWQxANgwiAEgcrgIA)
+  last-modified (1571911150758)
+}
+train (t-qtewlqqi0zilywmt1miwcnzwj) {
+  utterance ("[g:artweek.artweek.InfoSearchState] (다음 주)[v:viv.time.DateTimeExpression]에 (홍대)[v:artweek.artweek.District:마포구]에서 하는 (전시)[v:artweek.artweek.Type:전시] (있어)[v:artweek.artweek.SearchKeyword]")
+  plan (Y2BjkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JIumcUlRZnJJQyy2LV5p1aW5xelMIigS4dUFgDtKsss0yvJzE3VcwFaHQJkuFYUFKUWF2fm5zGwMjAyMDEwM7AAWQxANgwiAEgcrgIA)
+  last-modified (1572070962340)
+}

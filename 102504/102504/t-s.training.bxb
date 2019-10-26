@@ -1,0 +1,5 @@
+train (t-soavy97fhhlfo9arqoh18y3uk) {
+  utterance ("[g:artweek.artweek.InfoSearchState] (오전)[v:viv.time.DateTimeExpression]에 하는 공연들만 (알려줘)[v:artweek.artweek.SearchKeyword]")
+  plan (Y2BhkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQyy2CW9UyvL84tSGKTLMsv0SjJzU/VcgEaFABmuFQVFqcXFmfl5DMwMjAxMQJIBSIMgBID4YFEA)
+  last-modified (1571984098346)
+}

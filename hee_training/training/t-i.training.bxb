@@ -1,0 +1,19 @@
+train (t-i7t2i61hfhat15bzi90wyr82p) {
+  utterance (서울역 주변 전시 찾아줘)
+  last-modified (1572073653360)
+}
+train (t-iknwj4wcoiq2s7are7gv5mwxo) {
+  utterance ("[g:InfoSearchState] (인천 중구)[v:District:'인천광역시 중구'] (전시)[v:Type:전시] (찾아줄래)[v:SearchKeyword]?")
+  plan (Y2BlkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JIumcUlRZnJJQyy2LV5p1aW5xelMIigS4dUFqQysDAwMjAxMANpBiALAmEAJAaVAwA=)
+  last-modified (1572064677667)
+}
+train (t-iwnah2ej56xkuq7okv1z5ak3r) {
+  utterance ("[g:artweek.artweek.InfoSearchState] (부평)[v:artweek.artweek.District:부평구]에서 하는 (연극)[v:artweek.artweek.Type:연극] (있어)[v:artweek.artweek.SearchKeyword]")
+  plan (Y2BlkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JIumcUlRZnJJQyy2LV5p1aW5xelMIigS4dUFqQysDAwMjAxMANpBiALAmEAJAaVAwA=)
+  last-modified (1572066266593)
+}
+train (t-izz9k5cus6kqfz8n2sccablgj) {
+  utterance ("[g:InfoSearchState] (11월)[v:time.DateTimeExpression]에 (혜화역)[v:District:종로구]에서 하는 (연극)[v:Type:연극] 좀 (찾아줄래)[v:SearchKeyword]")
+  plan (Y2BjkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JIumcUlRZnJJQyy2LV5p1aW5xelMIigS4dUFgDtKsss0yvJzE3VcwFaHQJkuFYUFKUWF2fm5zGwMjAyMDEwM7AAWQxANgwiAEgcrgIA)
+  last-modified (1571911464491)
+}

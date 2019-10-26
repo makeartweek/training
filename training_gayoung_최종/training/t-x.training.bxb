@@ -1,0 +1,10 @@
+train (t-xqotge1ni2qtq6kuxale6aukg) {
+  utterance ("[g:InfoSearchState] (도봉구)[v:District:도봉구]에서 하는 (뮤직)[v:Type:콘서트] (말좀해줘)[v:SearchKeyword]")
+  plan (Y2BlkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JIumcUlRZnJJQyy2LV5p1aW5xelMIigS4dUFqQysDAwMjAxMANpBiALAmEAJAaVAwA=)
+  last-modified (1572073307963)
+}
+train (t-xqspnweuxvlgncnfl4z5lwv8f) {
+  utterance ("[g:InfoSearchState] (양평군)[v:District:양평군]에서 (사진전)[v:Type:연극] (보고싶어)[v:SearchKeyword]")
+  plan (Y2BlkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JIumcUlRZnJJQyy2LV5p1aW5xelMIigS4dUFqQysDAwMjAxMANpBiALAmEAJAaVAwA=)
+  last-modified (1572066323577)
+}

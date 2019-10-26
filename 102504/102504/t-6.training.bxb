@@ -1,0 +1,5 @@
+train (t-6nk5v1yt5kuc39ibipbfgn2ku) {
+  utterance ("[g:NearSearchState] 여기서 가장 (가까운)[v:Nearby:근처] 미술관에서 하는 (전시)[v:Type:전시] (찾아줘)[v:SearchKeyword]")
+  plan (Y2BjkE8sKilPTc3Wg9F+qYlFwUCcnBFckliSyqCArgAi6VTpk5+cWJKZn8cghs2IpEoGWew6vVMry/OLUhhE0KVDKgtSGQTKMsv00lPz9dxT8wPyM/NKGFgZGBmYGJgZWIAsBiAbBhGABYghKhgA)
+  last-modified (1571985360863)
+}

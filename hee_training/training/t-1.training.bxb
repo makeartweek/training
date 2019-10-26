@@ -1,0 +1,15 @@
+train (t-19imuejvmuawr9hfswyn1wjrx) {
+  utterance ("[g:InfoSearchState] (박권응)[v:Performer] (나온)[v:PerformerPostposition] (콘서트)[v:Type:콘서트] 아트위크에 (있어)[v:SearchKeyword]?")
+  plan (Y2BjkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQyS6JIBqUVp+UW5qUUMqjilAvKLSwryizNLMvPzGGSxG++dWlmeX5TCIIIuHVJZkMrAysDIwMTAzMACZDEA2TCIACBxuAoA)
+  last-modified (1572055213719)
+}
+train (t-1cdfiq9axicshieqqdsqo84dp) {
+  utterance ("[g:NearSearchState] (근처)[v:Nearby:근처]에서 하는 (연극)[v:Type:연극] (검색해줘)[v:SearchKeyword]")
+  plan (Y2BjkE8sKilPTc3Wg9F+qYlFwUCcnBFckliSyqCArgAi6VTpk5+cWJKZn8cghs2IpEoGWew6vVMry/OLUhhE0KVDKgtSGQTKMsv00lPz9dxT8wPyM/NKGFgZGBmYGJgZWIAsBiAbBhGABYghKhgA)
+  last-modified (1571913038264)
+}
+train (t-1fnx8qebzvtiq2j299hd6whhs) {
+  utterance ("[g:InfoSearchState] (장범준)[v:Title] 티켓 (가격 얼마야)[v:SearchKeyword]")
+  plan (Y2BhkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQyy2CW9UyvL84tSGETRpUMyS3JSGZgZGBmYgCQDkAZBCADxwaIA)
+  last-modified (1571985408046)
+}

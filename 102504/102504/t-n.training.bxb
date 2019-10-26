@@ -1,0 +1,5 @@
+train (t-n3upystn3vsskjzi29po3xkmt) {
+  utterance ("[g:NearSearchState] 여기서 제일 (가까운)[v:Nearby:근처] (미술전시회)[v:Type:전시] (알려주면 참 고맙겠는데)[v:SearchKeyword]")
+  plan (Y2BjkE8sKilPTc3Wg9F+qYlFwUCcnBFckliSyqCArgAi6VTpk5+cWJKZn8cghs2IpEoGWew6vVMry/OLUhhE0KVDKgtSGQTKMsv00lPz9dxT8wPyM/NKGFgZGBmYGJgZWIAsBiAbBhGABYghKhgA)
+  last-modified (1571985307483)
+}

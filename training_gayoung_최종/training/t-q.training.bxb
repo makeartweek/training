@@ -1,0 +1,5 @@
+train (t-qfvltbdqnw1okmcdruglx7d4g) {
+  utterance ("[g:InfoSearchState] (용산구)[v:District:용산구]에서 하는 (오케스트라)[v:Type:클래식] 공연 (있어)[v:SearchKeyword]")
+  plan (Y2BlkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JIumcUlRZnJJQyy2LV5p1aW5xelMIigS4dUFqQysDAwMjAxMANpBiALAmEAJAaVAwA=)
+  last-modified (1572069860365)
+}

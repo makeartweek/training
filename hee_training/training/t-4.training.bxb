@@ -1,0 +1,10 @@
+train (t-42biu2d9jaea21r93vniahpfz) {
+  utterance ("[g:InfoSearchState] (상봉역)[v:District:중랑구] 주변에 (사진전)[v:Type:전시] (검색해줘)[v:SearchKeyword]")
+  plan (Y2BlkE8sKilPTc3Wg9GeeWn5wamJRckZwSWJJakM0ugKIJKuZal5JQwS6JIumcUlRZnJJQyy2LV5p1aW5xelMIigS4dUFqQysDAwMjAxMANpBiALAmEAJAaVAwA=)
+  last-modified (1572067008973)
+}
+train (t-4kras2lctgz41h1roz1w41x7m) {
+  utterance ("[g:artweek.artweek.NearSearchState] (내 주변)[v:artweek.artweek.Nearby:근처]에서 하는 (콘서트)[v:artweek.artweek.Type:콘서트] (알려주라)[v:artweek.artweek.SearchKeyword]")
+  plan (Y2BjkE8sKilPTc3Wg9F+qYlFwUCcnBFckliSyqCArgAi6VTpk5+cWJKZn8cghs2IpEoGWew6vVMry/OLUhhE0KVDKgtSGQTKMsv00lPz9dxT8wPyM/NKGFgZGBmYGJgZWIAsBiAbBhGABYghKhgA)
+  last-modified (1571912661653)
+}
